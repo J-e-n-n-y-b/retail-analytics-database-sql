@@ -19,6 +19,11 @@ The database models key parts of a retail business, including:
 
 The structure was designed to reflect how retail data is typically organized and to support performance analysis across multiple dimensions.
 
+## Entity Relationship Diagram (ERD)
+This diagram represents the database structure, including table relationships, primary keys, and foreign keys. It was designed to support transaction tracking, inventory management, and performance analysis across stores and products.
+
+![ERD](erd.png)
+
 ## Key Features
 - Relational database design with multiple connected tables
 - Primary and foreign key relationships
