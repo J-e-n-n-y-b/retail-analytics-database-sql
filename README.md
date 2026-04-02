@@ -35,6 +35,17 @@ This database supports questions such as:
 - Which employees are driving the most sales?
 - How do sales trends change over time?
 
+## Key Insights
+The following insights were identified using the queries included in this project:
+
+- Top-selling products were driven by a small number of high-performing SKUs, highlighting the importance of assortment optimization
+- Sales performance varied significantly by store, suggesting differences in customer traffic and demand patterns
+- Average transaction value (ATV) differed across stores, indicating opportunities for targeted sales strategies
+- Certain employees consistently generated higher sales, pointing to performance differences that could inform training and staffing decisions
+- Sales trends over time showed variability, supporting the need for better demand forecasting and inventory planning
+
+These findings demonstrate how a structured database can be used to support business decisions in retail operations.
+
 ## How to Use This Project
 
 This project is organized into separate SQL files to make it easier to follow how the database is built and used.
